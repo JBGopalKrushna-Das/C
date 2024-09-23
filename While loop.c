@@ -1,0 +1,12 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+    int i=0;
+    while(i<=20)
+    {
+        printf("the resultant value from 1-20=%d\n",i);
+        i=i+2;
+    }
+getch();
+}
